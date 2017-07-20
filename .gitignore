@@ -24,7 +24,7 @@ dist/
 nbdist/
 .nb-gradle/
 
-
+### Project Specific ###
 node_modules/
 src/main/resources/app/node_modules/
 src/main/resources/static/app/dist/
