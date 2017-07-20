@@ -27,6 +27,7 @@ configurations {
 }
 
 dependencies {
+	compile('net.sourceforge.nekohtml:nekohtml:1.9.15')
 	compile('org.springframework.boot:spring-boot-starter-thymeleaf')
 	compile('org.springframework.boot:spring-boot-starter-web')
 	providedRuntime('org.springframework.boot:spring-boot-starter-tomcat')
