@@ -4,7 +4,7 @@
   "description": "starting with webpack",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "webpack"
   },
   "author": "Abinash Bohidar",
   "license": "ISC",
