@@ -1,0 +1,1 @@
+document.getElementById('sub').style.color="red";
